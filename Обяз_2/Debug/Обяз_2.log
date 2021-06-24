@@ -1,0 +1,39 @@
+﻿  Обяз_2.cpp
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(146,50): warning C4267: =: преобразование из "size_t" в "int16_t"; возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(148,33): warning C4267: +=: преобразование из "size_t" в "int16_t"; возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(171,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(252,38): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(253,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(253,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(272,38): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(273,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(273,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(291,38): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(292,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(292,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(311,38): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(312,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(312,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(331,34): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(332,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(332,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(346,41): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(346,52): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(347,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(347,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(362,41): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(362,52): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(363,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(363,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(378,41): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(378,52): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(379,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(379,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(393,38): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(394,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(394,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(409,41): warning C4305: +=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(409,52): warning C4305: -=: усечение из "double" в "float"
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(410,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Обяз_2\Обяз_2.cpp(410,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Обяз_2.vcxproj -> E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\Обяз_2\Debug\Обяз_2.exe
